@@ -136,7 +136,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2021-11-29 14:53:12 UTC"
+    "lastUpdated": "2021-12-06 13:01:52 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -1725,7 +1725,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-11-05 13:18:49 UTC"
+    "lastUpdated": "2021-12-09 10:36:14 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3209,7 +3209,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2021-11-24 06:35:33 UTC"
+    "lastUpdated": "2021-12-09 10:57:45 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -3219,7 +3219,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/mesh-gradients",
     "name": "mesh-gradients",
-    "lastUpdated": "2021-10-15 15:31:36 UTC"
+    "lastUpdated": "2021-12-10 12:56:22 UTC"
   },
   {
     "title": "Blender",
@@ -4233,7 +4233,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-11-30 17:22:29 UTC"
+    "lastUpdated": "2021-12-08 20:41:40 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4407,7 +4407,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Contrast/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Contrast#readme",
     "author": "Roman Nurik",
-    "lastUpdated": "2021-09-14 14:09:46 UTC"
+    "lastUpdated": "2021-12-08 15:55:54 UTC"
   },
   {
     "title": "Sketch Sync",
@@ -5965,7 +5965,7 @@
     "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
     "homepage": "https://github.com/inVoltag/awesome-ipsums",
     "author": "Aurélien Grimaud",
-    "lastUpdated": "2021-08-11 12:10:22 UTC"
+    "lastUpdated": "2021-12-10 01:34:35 UTC"
   },
   {
     "title": "Sketch Pexels",
@@ -6496,7 +6496,7 @@
     "appcast": "https://github.com/TiledCo/tiled-sketch-plugin/blob/master/appcast.xml",
     "homepage": "https://tiled.co/tiled-for-sketch-plugin",
     "author": "Tiled Inc.",
-    "lastUpdated": "2021-10-07 18:00:08 UTC"
+    "lastUpdated": "2021-12-08 18:51:04 UTC"
   },
   {
     "title": "Find Dirty Styles",
